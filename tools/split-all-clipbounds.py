@@ -162,6 +162,7 @@ while stack:
                     tasks = []
 
                 lastdir = directory
+                print name
                 tasks.append(name)
 
 
