@@ -6,7 +6,7 @@ import random, time
 
 # just simulate the splitting by sleeping for a randome number of seconds,
 # used to test mutoprocess handling
-simulate = True
+simulate = False
 
 # the directory to scan for clipbounds-files
 clipDir = "clipbounds"
