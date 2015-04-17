@@ -7,7 +7,7 @@ Note that under user ```osm```, the command can be run with the shortcut ```osm-
 
 This git repo lives on the osm-epic virtual machine:
 
-	/home/osm/osm-history-splitter-configs
+	/home/osm/split-config
 
 The tool can be run simply with:
 
