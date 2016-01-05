@@ -49,7 +49,7 @@ maxProcesses = 4
 # in parallel with 4 processes.
 
 # the source file
-inputFile = "/data/osm_files/history-latest.osh.pbf"
+inputFile = "/data/osm_files/history-latest.osm.pbf"
 
 # the directory to place the generated extracts into
 outputDir = "/data/osm_files/splitter_exports/"
