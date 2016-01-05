@@ -23,7 +23,7 @@ clipExtension = ".poly" # .osm
 #  clipbounds/foo/bar.poly           is read from the planetfile, because there was no foo.poly
 
 # the desired result datatype (.osm.pbf, .osh.pbf, .osm, .osh, ...)
-dataType = ".osm.pbf"
+dataType = ".osh.pbf"
 
 # the maximum number of parallel running extracts
 # this is ( <your systems memory in GB> - 1) * 1024 / <size per extract>
@@ -49,7 +49,7 @@ maxProcesses = 4
 # in parallel with 4 processes.
 
 # the source file
-inputFile = "/data/osm_files/history-latest.osm.pbf"
+inputFile = "/data/osm_files/history-latest.osh.pbf"
 
 # the directory to place the generated extracts into
 outputDir = "/data/osm_files/splitter_exports/"
